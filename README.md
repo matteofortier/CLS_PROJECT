@@ -1,4 +1,4 @@
-# CLS_PROJECT
+# Classifying Steam Games
 
 ### Deliverables
 
