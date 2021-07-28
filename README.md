@@ -2,7 +2,7 @@
 
 ### Deliverables
 
-- [Proposal](<./proposal.md>)
-- [MVP](</mvp.md>)
-- [Writeup](</writeup.md>)
+- [Proposal](<./_proposal.md>)
+- [MVP](</_mvp.md>)
+- [Writeup](</_writeup.md>)
 
